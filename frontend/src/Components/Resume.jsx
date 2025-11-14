@@ -1,5 +1,4 @@
 import { FaDownload, FaEye, FaFileAlt } from 'react-icons/fa'
-
 function Resume({ data }) {
   const handleDownload = () => {
     const link = document.createElement('a')

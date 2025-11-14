@@ -3,9 +3,9 @@ export const portfolioData = {
   tagline: "I help businesses and developers build meaningful digital experiences with modern web technologies.",
   about: "I'm a passionate developer with expertise in modern web technologies. I love building beautiful, functional applications that make a difference. With a strong foundation in both frontend and backend development, I specialize in creating seamless user experiences and robust server-side solutions.",
   
-  profileImage: "Assests/profile.jpeg",
+  profileImage: "/Portfolio/profile.jpeg",
   
-  resumeLink: "Assests/Sivaparan__FrontEnd_developer_sample_2025_nov_6th(SG cv).pdf",
+  resumeLink: "/Portfolio/Sivaparan__FrontEnd_developer_sample_2025_nov_6th(SG cv).pdf",
   
   projects: [
     {
